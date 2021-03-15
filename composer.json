@@ -1,0 +1,5 @@
+{
+    "name": "tickles/blank",
+    "description": "Blank package to protect the vendor name in packagist against dependency confusion attacks",
+    "require": {}
+}
